@@ -1,2 +1,0 @@
-django-admin.py startproject mysite
-django-admin.py startapp blog
